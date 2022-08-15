@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    hello	helloworld8106@gmail.com	@helloworld
 
 # THANKS
 
